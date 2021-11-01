@@ -1,7 +1,11 @@
 # Classic-Tetris
 Classic Tetris, in processing
 
-To run the game, run Tetrix.exe from application.windows64 (to download, click the green code button -> download ZIP -> unzip the folder). ESC to shut down the game.
+To download the game, click the green code button -> download ZIP -> unzip the folder.
+
+To run the game, run Tetrix.exe from application.windows64.
+
+ESC to shut down the game.
 
 Controls:
 A/D: move left and right | 
