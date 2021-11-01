@@ -15,4 +15,4 @@ Num keys 0-9: restart at level 0-9 |
 Num keys shift+0-9: restart at level 10-19 | 
 You must top out once to restart at a different level
 
-Tetris.pde contains the code file.
+Tetris.pde contains the code.
